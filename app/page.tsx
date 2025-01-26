@@ -15,6 +15,9 @@ export default function Home() {
 					<Button>
 						<Link href='/mathjax'>MathJax</Link>
 					</Button>
+					<Button>
+						<Link href='/claude'>Claude</Link>
+					</Button>
 				</div>
 			</main>
 		</div>
