@@ -20,7 +20,7 @@ export default function RootLayout({
 	return (
 		<html lang='en'>
 			<body
-				className={`${poppins.className} antialiased w-screen min-h-screen`}
+				className={`${poppins.className} antialiased container mx-auto py-8 `}
 			>
 				{children}
 			</body>
